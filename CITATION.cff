@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "R–RPE: An Identity‑Projected Reward Prediction Error Achieving Over 60% Reduction in LLM Hedging"
+authors:
+  - family-names: Lu
+    given-names: Louis J.
+    affiliation: Independent Researcher, Claritism
+    email: louis.j@claritism.org
+date-released: 2025-09-15
+version: preprint
+type: report
+repository-code: https://github.com/louisjmakise/rrpe-parameter-golf
+doi: 10.5281/zenodo.17118156
+abstract: |
+  We introduce R–RPE, an identity-projected extension of Reward Prediction Error that adds a pre-action appraisal divergence between a predicted external evaluation distribution and a self-narrative prior. In evaluation-only experiments, R–RPE reduces hedging by more than 60% while maintaining utility.
+preferred-citation:
+  type: report
+  title: "R–RPE: An Identity‑Projected Reward Prediction Error Achieving Over 60% Reduction in LLM Hedging"
+  authors:
+    - family-names: Lu
+      given-names: Louis J.
+  date-released: 2025-09-15
+  repository-code: https://github.com/louisjmakise/rrpe-parameter-golf
